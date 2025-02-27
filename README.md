@@ -23,6 +23,5 @@ Python3
 
 C
 # Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python Icon](https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png)
 
