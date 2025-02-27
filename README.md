@@ -1,5 +1,4 @@
-
-Hi there, I'm Osaid 👋
+# Hi i am Osaid
 
 I'm a passionate Python Developer with a strong 
 focus on building efficient, scalable, and 
