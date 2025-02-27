@@ -15,5 +15,5 @@ Python3
 
 C
 # Skills
-![Python Icon](https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png)
+<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python Icon" width="50" height="50">
 
