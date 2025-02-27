@@ -19,6 +19,7 @@ and game (pygame)projects
 # 📫 Reach me at 
 aliosaid908@gmail.com
 # Programming languages 
-Python
+Python3
+
 C
 
