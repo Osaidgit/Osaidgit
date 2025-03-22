@@ -16,4 +16,4 @@ Python3
 C
 # Skills
 <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python Icon" width="50" height="50">
-
+<img src ="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50" height="50">
